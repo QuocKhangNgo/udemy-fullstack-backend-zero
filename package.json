@@ -1,0 +1,23 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "Khang Dev fullstack backend zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js" 
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Khang Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuocKhangNgo/udemy-fullstack-backend-zero.git"
+  },
+  "homepage": "https://github.com/QuocKhangNgo/udemy-fullstack-backend-zero.git",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
